@@ -1,0 +1,97 @@
+C:\Users\Marcos_M_M_\Documents\Visual Studio 2013\Projects\Tienda\Tienda\bin\Debug\Tienda.exe.config
+C:\Users\Marcos_M_M_\Documents\Visual Studio 2013\Projects\Tienda\Tienda\bin\Debug\Tienda.exe
+C:\Users\Marcos_M_M_\Documents\Visual Studio 2013\Projects\Tienda\Tienda\bin\Debug\Tienda.pdb
+C:\Users\Marcos_M_M_\Documents\Visual Studio 2013\Projects\Tienda\Tienda\bin\Debug\Tienda.xml
+C:\Users\Marcos_M_M_\Documents\Visual Studio 2013\Projects\Tienda\Tienda\obj\Debug\Tienda.Marca.resources
+C:\Users\Marcos_M_M_\Documents\Visual Studio 2013\Projects\Tienda\Tienda\obj\Debug\Tienda.Menu.resources
+C:\Users\Marcos_M_M_\Documents\Visual Studio 2013\Projects\Tienda\Tienda\obj\Debug\Tienda.Cliente.resources
+C:\Users\Marcos_M_M_\Documents\Visual Studio 2013\Projects\Tienda\Tienda\obj\Debug\Tienda.Resources.resources
+C:\Users\Marcos_M_M_\Documents\Visual Studio 2013\Projects\Tienda\Tienda\obj\Debug\Gestion.vbproj.GenerateResource.Cache
+C:\Users\Marcos_M_M_\Documents\Visual Studio 2013\Projects\Tienda\Tienda\obj\Debug\Tienda.exe
+C:\Users\Marcos_M_M_\Documents\Visual Studio 2013\Projects\Tienda\Tienda\obj\Debug\Tienda.xml
+C:\Users\Marcos_M_M_\Documents\Visual Studio 2013\Projects\Tienda\Tienda\obj\Debug\Tienda.pdb
+C:\Users\Marcos_M_M_\Documents\Visual Studio 2013\Projects\Tienda\Tienda\obj\Debug\Gestion.vbprojResolveAssemblyReference.cache
+C:\Users\Marcos_M_M_\Documents\Visual Studio 2013\Projects\Tienda\Tienda\obj\Debug\Tienda.Producto.resources
+C:\Users\felicha rojas\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\bin\Debug\Tienda.exe.config
+C:\Users\felicha rojas\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\obj\Debug\Tienda.exe
+C:\Users\felicha rojas\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\obj\Debug\Tienda.xml
+C:\Users\felicha rojas\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\obj\Debug\Tienda.pdb
+C:\Users\felicha rojas\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\obj\Debug\Gestion.vbprojResolveAssemblyReference.cache
+C:\Users\felicha rojas\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\obj\Debug\Tienda.Departamento.resources
+C:\Users\felicha rojas\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\obj\Debug\Tienda.Marca.resources
+C:\Users\felicha rojas\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\obj\Debug\Tienda.Cliente.resources
+C:\Users\felicha rojas\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\obj\Debug\Tienda.Resources.resources
+C:\Users\felicha rojas\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\obj\Debug\Tienda.Producto.resources
+C:\Users\felicha rojas\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\obj\Debug\Gestion.vbproj.GenerateResource.Cache
+C:\Users\felicha rojas\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\bin\Debug\Tienda.exe
+C:\Users\felicha rojas\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\bin\Debug\Tienda.pdb
+C:\Users\felicha rojas\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\bin\Debug\Tienda.xml
+C:\Users\felicha rojas\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\bin\Debug\MySql.Data.dll
+C:\Users\felicha rojas\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\obj\Debug\Tienda.Ciudad.resources
+C:\Users\felicha rojas\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\obj\Debug\Tienda.Proveedor.resources
+C:\Users\felicha rojas\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\obj\Debug\Tienda.Empleado.resources
+C:\Users\felicha rojas\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\obj\Debug\Tienda.Usuario.resources
+C:\Users\felicha rojas\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\obj\Debug\Tienda.Detalle_empleado.resources
+C:\Users\felicha rojas\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\obj\Debug\Tienda.Ajustes_tipo.resources
+C:\Users\felicha rojas\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\obj\Debug\Tienda.Caja.resources
+C:\Users\felicha rojas\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\obj\Debug\Tienda.Cotizacion.resources
+C:\Users\felicha rojas\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\obj\Debug\Tienda.Moneda.resources
+C:\Users\felicha rojas\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\obj\Debug\Tienda.Compra.resources
+C:\Users\felicha rojas\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\obj\Debug\Tienda.Detalle_proveedor.resources
+C:\Users\felicha rojas\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\obj\Debug\Tienda.Devoluciones.resources
+C:\Users\felicha rojas\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\obj\Debug\Tienda.Orden_Compra.resources
+C:\Users\felicha rojas\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\obj\Debug\Tienda.Detalle_producto.resources
+C:\Users\felicha rojas\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\obj\Debug\Tienda.Login.resources
+C:\Users\felicha rojas\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\obj\Debug\Tienda.Pedido_Proveedor.resources
+C:\Users\felicha rojas\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\obj\Debug\Tienda.Apertura_Caja.resources
+C:\Users\felicha rojas\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\obj\Debug\Tienda.MenuP.resources
+C:\Users\felicha rojas\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\obj\Debug\Tienda.Reporte_Cliente.resources
+C:\Users\felicha rojas\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\obj\Debug\Tienda.ListaClientes.resources
+C:\Users\felicha rojas\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\obj\Debug\Tienda.ListaProducto.resources
+C:\Users\felicha rojas\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\obj\Debug\Tienda.ListaProveedor.resources
+C:\Users\felicha rojas\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\obj\Debug\Tienda.Orden_de_pago.resources
+C:\Users\felicha rojas\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\obj\Debug\Tienda.Pago.resources
+C:\Users\felicha rojas\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\obj\Debug\Tienda.Venta.resources
+C:\Users\felicha rojas\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\obj\Debug\Tienda.ListaFactura.resources
+C:\Users\felicha rojas\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\obj\Debug\Tienda.Cobros.resources
+C:\Users\HP\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\bin\Debug\Tienda.exe.config
+C:\Users\HP\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\obj\Debug\Tienda.exe
+C:\Users\HP\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\obj\Debug\Tienda.xml
+C:\Users\HP\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\obj\Debug\Tienda.pdb
+C:\Users\HP\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\obj\Debug\Gestion.vbprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\obj\Debug\Tienda.Ajustes_tipo.resources
+C:\Users\HP\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\obj\Debug\Tienda.Apertura_Caja.resources
+C:\Users\HP\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\obj\Debug\Tienda.Caja.resources
+C:\Users\HP\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\obj\Debug\Tienda.Ciudad.resources
+C:\Users\HP\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\obj\Debug\Tienda.Cobros.resources
+C:\Users\HP\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\obj\Debug\Tienda.Compra.resources
+C:\Users\HP\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\obj\Debug\Tienda.Cotizacion.resources
+C:\Users\HP\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\obj\Debug\Tienda.Departamento.resources
+C:\Users\HP\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\obj\Debug\Tienda.Detalle_empleado.resources
+C:\Users\HP\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\obj\Debug\Tienda.Detalle_producto.resources
+C:\Users\HP\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\obj\Debug\Tienda.Detalle_proveedor.resources
+C:\Users\HP\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\obj\Debug\Tienda.Devoluciones.resources
+C:\Users\HP\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\obj\Debug\Tienda.Empleado.resources
+C:\Users\HP\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\obj\Debug\Tienda.ListaClientes.resources
+C:\Users\HP\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\obj\Debug\Tienda.ListaFactura.resources
+C:\Users\HP\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\obj\Debug\Tienda.ListaProducto.resources
+C:\Users\HP\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\obj\Debug\Tienda.ListaProveedor.resources
+C:\Users\HP\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\obj\Debug\Tienda.Login.resources
+C:\Users\HP\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\obj\Debug\Tienda.Marca.resources
+C:\Users\HP\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\obj\Debug\Tienda.Cliente.resources
+C:\Users\HP\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\obj\Debug\Tienda.MenuP.resources
+C:\Users\HP\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\obj\Debug\Tienda.Moneda.resources
+C:\Users\HP\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\obj\Debug\Tienda.Resources.resources
+C:\Users\HP\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\obj\Debug\Tienda.Orden_Compra.resources
+C:\Users\HP\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\obj\Debug\Tienda.Orden_de_pago.resources
+C:\Users\HP\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\obj\Debug\Tienda.Pago.resources
+C:\Users\HP\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\obj\Debug\Tienda.Pedido_Proveedor.resources
+C:\Users\HP\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\obj\Debug\Tienda.Producto.resources
+C:\Users\HP\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\obj\Debug\Tienda.Proveedor.resources
+C:\Users\HP\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\obj\Debug\Tienda.Usuario.resources
+C:\Users\HP\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\obj\Debug\Tienda.Venta.resources
+C:\Users\HP\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\obj\Debug\Gestion.vbproj.GenerateResource.Cache
+C:\Users\HP\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\bin\Debug\Tienda.exe
+C:\Users\HP\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\bin\Debug\Tienda.pdb
+C:\Users\HP\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\bin\Debug\Tienda.xml
+C:\Users\HP\Documents\Visual Studio 2013\Projects\Tienda\Tienda\Tienda\bin\Debug\MySql.Data.dll

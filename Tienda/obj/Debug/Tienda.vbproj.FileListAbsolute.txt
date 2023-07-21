@@ -1,0 +1,13 @@
+c:\users\marcos_m_m_\documents\visual studio 2013\Projects\Tienda\Tienda\bin\Debug\Tienda.exe.config
+c:\users\marcos_m_m_\documents\visual studio 2013\Projects\Tienda\Tienda\bin\Debug\Tienda.exe
+c:\users\marcos_m_m_\documents\visual studio 2013\Projects\Tienda\Tienda\bin\Debug\Tienda.pdb
+c:\users\marcos_m_m_\documents\visual studio 2013\Projects\Tienda\Tienda\bin\Debug\Tienda.xml
+c:\users\marcos_m_m_\documents\visual studio 2013\Projects\Tienda\Tienda\obj\Debug\Tienda.Resources.resources
+c:\users\marcos_m_m_\documents\visual studio 2013\Projects\Tienda\Tienda\obj\Debug\Tienda.vbproj.GenerateResource.Cache
+c:\users\marcos_m_m_\documents\visual studio 2013\Projects\Tienda\Tienda\obj\Debug\Tienda.exe
+c:\users\marcos_m_m_\documents\visual studio 2013\Projects\Tienda\Tienda\obj\Debug\Tienda.xml
+c:\users\marcos_m_m_\documents\visual studio 2013\Projects\Tienda\Tienda\obj\Debug\Tienda.pdb
+C:\Users\Marcos_M_M_\Documents\Visual Studio 2013\Projects\Tienda\Tienda\obj\Debug\Tienda.vbprojResolveAssemblyReference.cache
+C:\Users\Marcos_M_M_\Documents\Visual Studio 2013\Projects\Tienda\Tienda\obj\Debug\Tienda.Marca.resources
+C:\Users\Marcos_M_M_\Documents\Visual Studio 2013\Projects\Tienda\Tienda\obj\Debug\Tienda.Menu.resources
+C:\Users\Marcos_M_M_\Documents\Visual Studio 2013\Projects\Tienda\Tienda\obj\Debug\Tienda.Cliente.resources
